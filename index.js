@@ -98,7 +98,7 @@ function update() {
         }
         
     }
-
+    score++
     player.update()
 }
 
